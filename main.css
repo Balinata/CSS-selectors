@@ -5,3 +5,17 @@ background-color: aqua;
 footer {
 background-color: aquamarine;
 }
+
+ul {
+    margin: 0; padding: 10px;
+   }
+   li { display: inline; margin-right: 10px; }
+   header a { 
+    color: #333391;
+   }
+
+h1 {
+color: brown;
+text-shadow: #333391;
+font-size: 25px;
+}

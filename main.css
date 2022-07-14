@@ -59,6 +59,10 @@ td {
     transition: .3s linear;
 }
 
+h2 + p {
+background: rgb(239, 227, 196);
+}
+
 .text2 {
     color: red;
     font-size: 17px;

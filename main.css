@@ -1,9 +1,13 @@
 header {
-background-color: aqua;
+background-color: rgb(110, 116, 116);
 }
 
 footer {
-background-color: aquamarine;
+background-color: rgb(117, 120, 119);
+}
+
+body {
+background-color: #f5f5f1f5; 
 }
 
 ul {
@@ -14,9 +18,9 @@ ul {
     color: #333391;
    }
 
-h1 {
+#header {
 color: rgb(65, 42, 165);
-font-size: 25px;
+font-size: 30px;
 text-shadow: 1px 1px 1px yellow,
              1px 1px 1px yellow;
 }
@@ -46,19 +50,16 @@ table {
     padding: 9px 8px;
     transition: .3s linear;
   }
-  
-  #text {
-    color: rgb(4, 142, 27);
-    text-align: center;
-    }
     
     .text2 {
     color: red;
+    font-size: 17px;
     }
     
     .text3 {
         color: #059;
         background-color: #BEF;
+        font-size: 17px;
       }
       .tex34 {
         color: #270;
